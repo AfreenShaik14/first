@@ -25,10 +25,6 @@ function createNewArray(){
         bars.append(bar)     
     }
 }
-
-
-
-
 //delete previous array
 function deletePreviousArray(){
     let bars = document.querySelector("#bars")      
